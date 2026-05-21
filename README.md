@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pratik%20Gadekar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Pratik%20Gadekar&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Cloud%20%26%20DevOps%20Engineer&amp;descSize=20&amp;descAlignY=60&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
