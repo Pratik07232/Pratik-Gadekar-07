@@ -89,54 +89,47 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💰 AWS Cost Optimizer</h3>
-      <p align="center">
-        <a href="https://github.com/Pratik07232/AWS-cost-optimizer" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>A cloud cost optimization solution that identifies underutilized AWS resources and helps reduce unnecessary cloud spending through monitoring and analysis.</p>
-    </td>
+## 🚀 Featured Projects
 
-    <td width="50%">
-      <h3 align="center">🚀 CI/CD Jenkins Docker Project</h3>
-      <p align="center">
-        <a href="https://github.com/Pratik07232/CI-CD-Jenkins-Docker-Project" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Automated CI/CD pipeline using Jenkins and Docker for continuous integration, automated builds, testing, and application deployment.</p>
-    </td>
-  </tr>
+### 💰 AWS Cost Optimizer
+> Optimize AWS costs by identifying underutilized resources and reducing unnecessary cloud spending.
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 AWS Multi-Region Disaster Recovery</h3>
-      <p align="center">
-        <a href="https://github.com/Pratik07232/aws-multi-region-disaster-recovery-setup" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Highly available disaster recovery architecture across multiple AWS regions to improve business continuity, resilience, and fault tolerance.</p>
-    </td>
+🔗 Repository: https://github.com/Pratik07232/AWS-cost-optimizer
 
-    <td width="50%">
-      <h3 align="center">🏗️ Terraform AWS Infrastructure</h3>
-      <p align="center">
-        <a href="https://github.com/Pratik07232/Terraform-AWS-infrastructure" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Infrastructure as Code (IaC) project using Terraform to provision and manage AWS resources in a scalable, repeatable, and automated manner.</p>
-    </td>
-  </tr>
-</table>
-</div>
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-Cost%20Analysis-blue?style=for-the-badge)
 
+---
+
+### 🚀 CI/CD Jenkins Docker Project
+> End-to-end CI/CD pipeline using Jenkins and Docker for automated build, test, and deployment workflows.
+
+🔗 Repository: https://github.com/Pratik07232/CI-CD-Jenkins-Docker-Project
+
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge)
+
+---
+
+### 🌍 AWS Multi-Region Disaster Recovery
+> Highly available disaster recovery architecture designed across multiple AWS Regions for business continuity.
+
+🔗 Repository: https://github.com/Pratik07232/aws-multi-region-disaster-recovery-setup
+
+![AWS](https://img.shields.io/badge/AWS-Multi--Region-orange?style=for-the-badge)
+![Disaster Recovery](https://img.shields.io/badge/DR-Fault%20Tolerance-green?style=for-the-badge)
+
+---
+
+### 🏗️ Terraform AWS Infrastructure
+> Infrastructure as Code project using Terraform to provision and manage AWS resources automatically.
+
+🔗 Repository: https://github.com/Pratik07232/Terraform-AWS-infrastructure
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Infrastructure-orange?style=for-the-badge)
+
+---
 ---
 
 ## 📊 GitHub Stats
