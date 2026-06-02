@@ -86,8 +86,7 @@
 `TCP/IP` `DNS` `VPC` `Subnets` `NAT Gateway` `Security Groups` `Load Balancers`
 
 ---
-
-## 🚀 Featured Projects
+---
 
 ## 🚀 Featured Projects
 
