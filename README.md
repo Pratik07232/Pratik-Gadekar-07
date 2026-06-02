@@ -93,42 +93,45 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 AWS VPC Multi-Tier Architecture</h3>
+      <h3 align="center">💰 AWS Cost Optimizer</h3>
       <p align="center">
-        <a href="https://github.com/Pratik07232/Aws-Vpc-Multi-Tier-Architecture-" target="_blank">
+        <a href="https://github.com/Pratik07232/AWS-cost-optimizer" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Secure AWS VPC Multi-Tier Architecture with <b>Bastion Host</b> and <b>NAT Gateway</b>. Implements public/private subnet isolation, secure SSH tunneling, and controlled outbound internet access.</p>
+      <p>A cloud cost optimization solution that identifies underutilized AWS resources and helps reduce unnecessary cloud spending through monitoring and analysis.</p>
     </td>
+
     <td width="50%">
-      <h3 align="center">⚖️ AWS Auto Scaling + Load Balancer</h3>
+      <h3 align="center">🚀 CI/CD Jenkins Docker Project</h3>
       <p align="center">
-        <a href="https://github.com/Pratik07232/aws-auto-scaling-load-balancer" target="_blank">
+        <a href="https://github.com/Pratik07232/CI-CD-Jenkins-Docker-Project" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Scalable and highly available web application on AWS using <b>Auto Scaling Groups</b> and <b>Application Load Balancer</b>. Handles traffic spikes automatically with zero downtime.</p>
+      <p>Automated CI/CD pipeline using Jenkins and Docker for continuous integration, automated builds, testing, and application deployment.</p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3 align="center">📦 AWS Amplify</h3>
+      <h3 align="center">🌍 AWS Multi-Region Disaster Recovery</h3>
       <p align="center">
-        <a href="https://github.com/Pratik07232/AWS-amplify" target="_blank">
+        <a href="https://github.com/Pratik07232/aws-multi-region-disaster-recovery-setup" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Full-stack cloud application deployment using <b>AWS Amplify</b> for CI/CD, hosting, and backend integration.</p>
+      <p>Highly available disaster recovery architecture across multiple AWS regions to improve business continuity, resilience, and fault tolerance.</p>
     </td>
+
     <td width="50%">
-      <h3 align="center">🛒 Vendor Inventory App</h3>
+      <h3 align="center">🏗️ Terraform AWS Infrastructure</h3>
       <p align="center">
-        <a href="https://github.com/Pratik07232/Vendor-inventory-app" target="_blank">
+        <a href="https://github.com/Pratik07232/Terraform-AWS-infrastructure" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Vendor management and inventory tracking application with a clean, responsive web interface.</p>
+      <p>Infrastructure as Code (IaC) project using Terraform to provision and manage AWS resources in a scalable, repeatable, and automated manner.</p>
     </td>
   </tr>
 </table>
