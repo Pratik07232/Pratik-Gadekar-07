@@ -91,7 +91,7 @@
 ## 🚀 Featured Projects
 ☁️ AWS Serverless File Upload System
 
-Serverless file upload system using AWS Lambda, Amazon S3, API Gateway, IAM, and CloudWatch. Uploads go through API Gateway, are stored in S3, and trigger processing through Lambda with logs in CloudWatch.
+> Serverless file upload system using AWS Lambda, Amazon S3, API Gateway, IAM, and CloudWatch. Uploads go through API Gateway, are stored in S3, and trigger processing through Lambda with logs in CloudWatch.
 
 🔗 Repository: https://github.com/Pratik07232/AWS-Serverless-File-Upload-System
 
@@ -103,7 +103,7 @@ Serverless file upload system using AWS Lambda, Amazon S3, API Gateway, IAM, and
 ---
 
 ### 🚀 CI/CD Jenkins Docker Project
-> End-to-end CI/CD pipeline using Jenkins and Docker for automated build, test, and deployment workflows.
+> Automated CI/CD pipeline using Jenkins, Docker, GitHub, GitHub Webhooks, and AWS EC2. Source code changes automatically trigger build, Docker image creation, and application deployment on an EC2 instance for faster and reliable software delivery.
 
 🔗 Repository: https://github.com/Pratik07232/CI-CD-Jenkins-Docker-Project
 
@@ -113,7 +113,7 @@ Serverless file upload system using AWS Lambda, Amazon S3, API Gateway, IAM, and
 ---
 
 ### 🏗️ Terraform AWS Infrastructure
-> Infrastructure as Code project using Terraform to provision and manage AWS resources automatically.
+> Infrastructure as Code (IaC) project using Terraform, AWS VPC, EC2, Security Groups, IAM, and Amazon S3. Automates the provisioning and management of AWS infrastructure through reusable, version-controlled Terraform configurations.
 
 🔗 Repository: https://github.com/Pratik07232/Terraform-AWS-infrastructure
 
