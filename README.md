@@ -89,14 +89,16 @@
 ---
 
 ## 🚀 Featured Projects
+☁️ AWS Serverless File Upload System
 
-### 💰 AWS Cost Optimizer
-> Optimize AWS costs by identifying underutilized resources and reducing unnecessary cloud spending.
+Serverless file upload system using AWS Lambda, Amazon S3, API Gateway, IAM, and CloudWatch. Uploads go through API Gateway, are stored in S3, and trigger processing through Lambda with logs in CloudWatch.
 
-🔗 Repository: https://github.com/Pratik07232/AWS-cost-optimizer
+🔗 Repository: https://github.com/Pratik07232/AWS-Serverless-File-Upload-System
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring-Cost%20Analysis-blue?style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-yellow?style=for-the-badge)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-green?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API-Gateway-red?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Logging-purple?style=for-the-badge)
 
 ---
 
@@ -110,16 +112,6 @@
 
 ---
 
-### 🌍 AWS Multi-Region Disaster Recovery
-> Highly available disaster recovery architecture designed across multiple AWS Regions for business continuity.
-
-🔗 Repository: https://github.com/Pratik07232/aws-multi-region-disaster-recovery-setup
-
-![AWS](https://img.shields.io/badge/AWS-Multi--Region-orange?style=for-the-badge)
-![Disaster Recovery](https://img.shields.io/badge/DR-Fault%20Tolerance-green?style=for-the-badge)
-
----
-
 ### 🏗️ Terraform AWS Infrastructure
 > Infrastructure as Code project using Terraform to provision and manage AWS resources automatically.
 
@@ -130,7 +122,6 @@
 
 ---
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
