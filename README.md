@@ -109,6 +109,8 @@
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Webhooks-black?style=for-the-badge)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge)
 
 ---
 
@@ -119,6 +121,8 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Infrastructure-orange?style=for-the-badge)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-green?style=for-the-badge)
+![EC2](https://img.shields.io/badge/AWS-EC2-yellow?style=for-the-badge)
 
 ---
 ---
