@@ -125,7 +125,6 @@
 ![EC2](https://img.shields.io/badge/AWS-EC2-yellow?style=for-the-badge)
 
 ---
----
 ## 📊 GitHub Stats
 
 <div align="center">
